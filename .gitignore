@@ -1,5 +1,5 @@
 #list of folers to ignore
-test/
+RubymineProjects/FirstBDDtest/.idea/
 #Compiled source
 .com
 *.png
