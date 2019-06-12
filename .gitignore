@@ -1,0 +1,5 @@
+#list of folers to ignore
+test/
+#Compiled source
+.com
+*.png
